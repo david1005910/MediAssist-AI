@@ -1,5 +1,13 @@
 # MediAssist AI
 
+[![Build](https://github.com/david1005910/MediAssist-AI/actions/workflows/build.yml/badge.svg)](https://github.com/david1005910/MediAssist-AI/actions/workflows/build.yml)
+[![Test](https://github.com/david1005910/MediAssist-AI/actions/workflows/test.yml/badge.svg)](https://github.com/david1005910/MediAssist-AI/actions/workflows/test.yml)
+[![Lint](https://github.com/david1005910/MediAssist-AI/actions/workflows/lint.yml/badge.svg)](https://github.com/david1005910/MediAssist-AI/actions/workflows/lint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![React 18](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
+
 Medical RAG + ML 진단 보조 시스템
 
 ## Overview
